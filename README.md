@@ -1,1 +1,1 @@
-This current project was originally intended to be an introductory class on html/css through a recipe website. My goal is to do something very similar, but more in line with my actual job today 🙂.
+This current project was originally intended to be an introductory class on html/css through a recipe website. My goal is to do something very similar, but more in line with my actual job today 🙂. 
